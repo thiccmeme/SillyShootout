@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-AdvancedSteamSessions.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\UEProjects\SillyShootout\Intermediate\Build\Win64\x64\RPCTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"D:\UEProjects\SillyShootout\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
-"D:\UEProjects\SillyShootout\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\Default.rc2.res"
-/OUT:"D:\UEProjects\SillyShootout\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\UnrealEditor-AdvancedSteamSessions.lib"
+"D:\UeProjects\SillyShootout\Intermediate\Build\Win64\x64\RPCTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\UeProjects\SillyShootout\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"D:\UeProjects\SillyShootout\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\Default.rc2.res"
+/OUT:"D:\UeProjects\SillyShootout\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\UnrealEditor-AdvancedSteamSessions.lib"

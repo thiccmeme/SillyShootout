@@ -21,6 +21,21 @@
 		{
 			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
+		},
+		{
+			"Name": "MobileFSR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"IOS",
+				"Android"
+			]
+		},
+		{
+			"Name": "FSR3",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		}
 	],
 	"TargetPlatforms": [
